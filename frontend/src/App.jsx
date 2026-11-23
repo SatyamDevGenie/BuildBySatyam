@@ -22,7 +22,7 @@ import {
   Code2,
 } from "lucide-react";
 
-const API_BASE_URL = "http://localhost:5000";
+const API_BASE_URL = "https://buildbysatyam.onrender.com";
 
 const TRANSLATIONS = {
   EN: {
